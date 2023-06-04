@@ -1,7 +1,7 @@
 const BLOG = {
   title: '煎饺子',
   author: 'zhao',
-  email: 'zhao112077@foxmail.com',
+  email: 'zhaojiankan@gmail.com',
   link: 'https://www.zoan.top/',
   description: 'This gonna be an awesome website.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
